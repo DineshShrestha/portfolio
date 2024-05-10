@@ -1,0 +1,61 @@
+.portfolio{
+    margin-left: 10px;
+    margin-right: 20px;
+    font-weight: 600;
+    font-size: 20px;
+    letter-spacing: 2px;
+    text-decoration: none;
+}
+.resume{
+    text-decoration: none;
+    margin-top: 5px;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    width: 50%;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    border: none;
+    background-color: #000080;
+}
+.resume:hover{
+    background-color:blue;
+}
+.hero{
+    height: 400px;
+}
+.icon-container{
+    background-color: #FFEFEF; /* Change this to the desired background color */
+    width: 40px; /* Adjust width and height as needed */
+    height: 40px;
+    border-radius: 50%; /* Make it round */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 10px;
+}
+.pointing{
+    height: 14px;
+}
+
+.contact{
+    width: 50%;
+    font-size: 30px;
+    letter-spacing: 3px;
+    border: none;
+    background-color: #000080;
+}
+
+.contact:hover{
+    background-color:blue;
+}
+.feature-icon {
+    width: 4rem;
+    height: 4rem;
+    border-radius: 0.75rem;
+    background-color: #000080;
+  }
+
+  .social-icon{
+    background-color: cornsilk;
+  }
